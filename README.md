@@ -4,6 +4,6 @@
 
 <<<<<<< HEAD
 =======
-This app is on Mumbai Testnet
+This app is on Aurora Testnet
 
 >>>>>>> ab2ed6f (master)
